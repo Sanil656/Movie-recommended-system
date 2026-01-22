@@ -72,6 +72,3 @@ Aspiring Data Scientist
 
 GitHub: https://github.com/Sanil656  
 LinkedIn: https://www.linkedin.com/in/sanil-gupta-64bb11314/
-
-## Important 
-Due to the large size of the dataset, I have uploaded the data separately on LinkedIn. The project code uses this dataset to build a content-based Movie Recommender System and demonstrates data preprocessing, similarity calculation, and real-time movie recommendations.
